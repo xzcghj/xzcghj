@@ -2,6 +2,8 @@
 
 
 
-## aktualnie pracuje w [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+## aktualnie pracuje w
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 ## statystyki
+[![moje staty](https://github-readme-stats.vercel.app/api?username=xzcghj)
