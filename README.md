@@ -1,9 +1,5 @@
-## Hi there 👋
+## siemanko 👋
+
+## na moim profilu można znaleźć różne projekty, głównymi narzędziami którymi się posługuje jest mój mózg i różne modele sztucznej inteligencji 😉
 
 
-
-## aktualnie pracuje w
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-
-## statystyki
-[![moje staty](https://github-readme-stats.vercel.app/api?username=xzcghj)
